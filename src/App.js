@@ -10,7 +10,7 @@ function App() {
             改善偽裝影像視覺品質的研究與實作
           </h1>
           <p className="text-xl md:text-2xl mb-2">國立台北教育大學-互動跨平台前端工程開發HW</p>
-          <p className="text-lg md:text-xl">專題成員：黃柔語</p>
+          <p className="text-lg md:text-xl">學生：111434024黃柔語</p>
         </div>
       </header>
 
