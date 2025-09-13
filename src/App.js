@@ -9,7 +9,7 @@ function App() {
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
             改善偽裝影像視覺品質的研究與實作
           </h1>
-          <p className="text-xl md:text-2xl mb-2">國立虎尾科技大學資訊工程系</p>
+          <p className="text-xl md:text-2xl mb-2">國立台北教育大學-互動跨平台前端工程開發HW</p>
           <p className="text-lg md:text-xl">專題成員：黃柔語</p>
         </div>
       </header>
@@ -146,7 +146,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-gray-800 text-white text-center py-6 mt-12">
         <div className="max-w-4xl mx-auto px-4">
-          <p className="text-lg mb-2">國立虎尾科技大學資訊工程系</p>
+          <p className="text-lg mb-2">國立台北教育大學-互動跨平台前端工程開發HW</p>
           <p className="text-gray-300">專題：改善偽裝影像視覺品質的研究與實作</p>
           <p className="text-gray-400 text-sm mt-2">© 111434024黃柔語</p>
         </div>
