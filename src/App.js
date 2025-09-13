@@ -148,7 +148,7 @@ function App() {
         <div className="max-w-4xl mx-auto px-4">
           <p className="text-lg mb-2">國立虎尾科技大學資訊工程系</p>
           <p className="text-gray-300">專題：改善偽裝影像視覺品質的研究與實作</p>
-          <p className="text-gray-400 text-sm mt-2">© 2024 111434024黃柔語</p>
+          <p className="text-gray-400 text-sm mt-2">© 111434024黃柔語</p>
         </div>
       </footer>
     </div>
